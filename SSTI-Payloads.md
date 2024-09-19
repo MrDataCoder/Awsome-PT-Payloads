@@ -65,4 +65,4 @@ Detection Payload Workflow
     Filter Bypass: Try obfuscating payloads or chaining functions to bypass filters.
 
 Tools:
-    Tplmap: Automated tool to exploit SSTI vulnerabilities.
+    [Tplmap: Automated tool to exploit SSTI vulnerabilities.](https://github.com/epinna/tplmap)
